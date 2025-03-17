@@ -1,0 +1,14 @@
+C:\Users\lab53.FATEC\Downloads\Fatec-RL\bin\Debug\net9.0\Fatec-RL.exe
+C:\Users\lab53.FATEC\Downloads\Fatec-RL\bin\Debug\net9.0\Fatec-RL.deps.json
+C:\Users\lab53.FATEC\Downloads\Fatec-RL\bin\Debug\net9.0\Fatec-RL.runtimeconfig.json
+C:\Users\lab53.FATEC\Downloads\Fatec-RL\bin\Debug\net9.0\Fatec-RL.dll
+C:\Users\lab53.FATEC\Downloads\Fatec-RL\bin\Debug\net9.0\Fatec-RL.pdb
+C:\Users\lab53.FATEC\Downloads\Fatec-RL\obj\Debug\net9.0\Fatec-RL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab53.FATEC\Downloads\Fatec-RL\obj\Debug\net9.0\Fatec-RL.AssemblyInfoInputs.cache
+C:\Users\lab53.FATEC\Downloads\Fatec-RL\obj\Debug\net9.0\Fatec-RL.AssemblyInfo.cs
+C:\Users\lab53.FATEC\Downloads\Fatec-RL\obj\Debug\net9.0\Fatec-RL.csproj.CoreCompileInputs.cache
+C:\Users\lab53.FATEC\Downloads\Fatec-RL\obj\Debug\net9.0\Fatec-RL.dll
+C:\Users\lab53.FATEC\Downloads\Fatec-RL\obj\Debug\net9.0\refint\Fatec-RL.dll
+C:\Users\lab53.FATEC\Downloads\Fatec-RL\obj\Debug\net9.0\Fatec-RL.pdb
+C:\Users\lab53.FATEC\Downloads\Fatec-RL\obj\Debug\net9.0\Fatec-RL.genruntimeconfig.cache
+C:\Users\lab53.FATEC\Downloads\Fatec-RL\obj\Debug\net9.0\ref\Fatec-RL.dll
